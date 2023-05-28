@@ -1,0 +1,4 @@
+Order id: 0
+Client: Szili
+Product bought: caine
+Amount: 1

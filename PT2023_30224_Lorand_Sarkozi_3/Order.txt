@@ -1,0 +1,8 @@
+Order id: 0
+Client: Tobi
+Product bought: Lorand
+Amount: 1
+Order id: 0
+Client: Szili
+Product bought: caine
+Amount: 4
